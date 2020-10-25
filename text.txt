@@ -4,3 +4,5 @@ intoduction to git
 this is the first chapter
 #second chapter
 this is the second chapter
+#third chapter
+this is the third chapter
